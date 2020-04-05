@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Damiano Cerasuolo / DC"
 title_separator          : "-"
-name                     : &name "Damiano"
+name                     : &name "DC"
 description              : &description "personal website"
 url                      : https://damiacer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
