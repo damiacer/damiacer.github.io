@@ -82,18 +82,18 @@ analytics:
 author:
   name             : "Damiano Cerasuolo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Medicinae Doctor in Public Health - Biostatistics. Doing some research, taking some photos, coding with R, eating pizza and drinking coffee."
   location         : "Caen, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en"
+  email            : 
+  researchgate     : "https://www.researchgate.net/profile/Damiano_Cerasuolo"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/damiano-cer/"
   facebook         :
   foursquare       :
   github           : "damiacer"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
