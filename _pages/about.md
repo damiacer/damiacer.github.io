@@ -10,7 +10,7 @@ redirect_from:
 
 the story so far
 ------
-I am a *medicinae doctor* in Public Health. I studied at the Faculty of Medicine of University of Rome, *Sapienza*, where I graduated in 2014. I was not meant to do Public Health, actually. In 2012 I started attending the laboratory of clinical immunology of Rome general hospital *Umberto I* (the last year of medical studies in Italy is dedicated to a long – not paid – internship) and, in 2013, I moved to Paris and started to attend the laboratory of biotherapy and clinical research center. My thesis about the interaction of *B lymphocytes* and *regulatory T cells (CD4+FOXP3+CD25+)* come out (for a selected public) after almost 2 years of work, in March 2014. In the same year, I started my residency programme. I spent one year of my residency in Paris, I moved to Rouen (Upper Normandy), then I went back againg to Paris. I defended the thesis (*Parkinson disease in the women of a French cohort*) of my master degree in *epidemiology* in September 2018 and my second thesis in medicine (long story short: thesis are defended during the residency programme in France - no matter if you already hold one!) in October 2019. 
+I am a *medicinae doctor* in Public Health. I studied at the [Faculty of Medicine of University of Rome, *Sapienza*](https://web.uniroma1.it/medeodonto/en), where I graduated in 2014. I was not meant to do Public Health, actually. In 2012 I started attending the laboratory of clinical immunology of Rome general hospital *Umberto I* (the last year of medical studies in Italy is dedicated to a long – not paid – internship) and, in 2013, I moved to Paris and started to attend the laboratory of biotherapy and clinical research center. My thesis about the interaction of *B lymphocytes* and *regulatory T cells (CD4+FOXP3+CD25+)* come out (for a selected public) after almost 2 years of work, in March 2014. In the same year, I started my residency programme. I spent one year of my residency in Paris, I moved to Rouen (Upper Normandy), then I went back againg to Paris. I defended the thesis (*Parkinson disease in the women of a French cohort*) of my master degree in *epidemiology* in September 2018 and my second thesis in medicine (long story short: thesis are defended during the residency programme in France - no matter if you already hold one!) in October 2019. 
 
 what is public health
 ------
@@ -18,20 +18,16 @@ Not easy to define. According to the [Springer Encyclopedia of Public Health](ht
 Public Health is a quite complex discipline with one purpose: healthy population.  
 
 **what you do as public health specialist**  
-As Public Health is an extremely wide discipline, one day or another during his (or her) life, a resident has to make a choice. During the four years of my residency, I attended a master programme in epidemiology (*M2 Recherche en santé publique - épidémiologie*) at *Université Paris Sud*. I have always had a certain interest in numbers and how they help researchers to lie. So here I am. After a few months working in epidemiology and *biostatistics* during my residency at [INSERM](https://www.inserm.fr/) in Paris and [Rouen University Hospital](https://www.chu-rouen.fr/), working as attending physician in the *Biostatistics and Clinical Research Unit* of [Caen University Hospital](https://www.chu-caen.fr/). Yeah, Normandy forever.
+As Public Health is an extremely wide discipline, one day or another during his (or her) life, a resident has to make a choice. During the four years of my residency, I attended a master programme in epidemiology (*M2 Recherche en santé publique - épidémiologie*) at [Université Paris Sud](https://www.universite-paris-saclay.fr/en). I have always had a certain interest in numbers and how they help researchers to lie. So here I am. After a few months working in epidemiology and *biostatistics* during my residency at [INSERM](https://www.inserm.fr/) in Paris and [Rouen University Hospital](https://www.chu-rouen.fr/), working as attending physician in the *Biostatistics and Clinical Research Unit* of [Caen University Hospital](https://www.chu-caen.fr/). Yeah, Normandy forever.
 
-**what do you do there**
+**what do you do there**  
+As statician-medical doctor, I am involved in clinical trials and research projects carried out at the University Hospital of Caen. I also teach at the [University of Caen](http://www.unicaen.fr/).   
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+and what about the outer space?
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Public Health is a multi-disciplinary speciality. The more you meet people, the more you learn. As resident, I enjoyed being part of the [European Network of Medical Residents in Public Health](https://www.euronetmrph.org) and [CLiSP](https://clisp.fr/). As a Public Health specialist with a deep interest in numbers, I loved being challenged by the conversation had during the [European Health Forum Gastein](https://www.ehfg.org/), attended thanks to *Young Forum Gastein scholarship*.  
+Now I'm really enjoying conversations around [R](https://cran.r-project.org/) as community team member of [R Forwards](https://forwards.github.io/).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
+Contact
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Contact me by Twitter PM or by sending an email to damiano*dot*cerasuolo*at*hotmail*dot*com.
