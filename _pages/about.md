@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page. This website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
-
-who's there
-======
-
 the story so far
 ------
 I am a *medicinae doctor* in Public Health. I studied at the Faculty of Medicine of University of Rome, *Sapienza*, where I graduated in 2014. I was not meant to do Public Health, actually. In 2012 I started attending the laboratory of clinical immunology of Rome general hospital *Umberto I* (the last year of medical studies in Italy is dedicated to a long – not paid – internship) and, in 2013, I moved to Paris and started to attend the laboratory of biotherapy and clinical research center. My thesis about the interaction of *B lymphocytes* and *regulatory T cells (CD4+FOXP3+CD25+)* come out (for a selected public) after almost 2 years of work, in March 2014. In the same year, I started my residency programme. I spent one year of my residency in Paris, I moved to Rouen (Upper Normandy), then I went back againg to Paris. I defended the thesis (*Parkinson disease in the women of a French cohort*) of my master degree in *epidemiology* in September 2018 and my second thesis in medicine (long story short: thesis are defended during the residency programme in France - no matter if you already hold one!) in October 2019. 
 
 what is public health
 ------
+Not easy to define. According to the [Springer Encyclopedia of Public Health](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4020-5614-7_723), *Public Health is an empiric and multidisciplinary field whose goal is to assure conditions in which people can be healthy. While medicine mainly focuses on treating illness in separate individuals, it is the central goal of public health activities to increase health at the population level. [...] The success of public health depends on adhering to the basic rules of equity, partnerships, and social justice, as well as the mobilization of local, national, and international resources.*  
+Public Health is a quite complex discipline with one purpose: healthy population.  
 
+**what you do as public health specialist**  
+As Public Health is an extremely wide discipline, one day or another during his (or her) life, a resident has to make a choice. During the four years of my residency, I attended a master programme in epidemiology (*M2 Recherche en santé publique - épidémiologie*) at *Université Paris Sud*. I have always had a certain interest in numbers and how they help researchers to lie. So here I am. After a few months working in epidemiology and *biostatistics* during my residency at [INSERM](https://www.inserm.fr/) in Paris and [Rouen University Hospital](https://www.chu-rouen.fr/), working as attending physician in the *Biostatistics and Clinical Research Unit* of [Caen University Hospital](https://www.chu-caen.fr/). Yeah, Normandy forever.
 
-**Markdown generator**
+**what do you do there**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
