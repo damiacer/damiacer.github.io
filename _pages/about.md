@@ -12,6 +12,7 @@ Welcome to my personal page. This website that is powered by the [academicpages 
 
 who's there
 ======
+
 the story so far
 ------
 I am a *medicinae doctor* in Public Health. I studied at the Faculty of Medicine of University of Rome, *Sapienza*, where I graduated in 2014. I was not meant to do Public Health, actually. In 2012 I started attending the laboratory of clinical immunology of Rome general hospital *Umberto I* (the last year of medical studies in Italy is dedicated to a long – not paid – internship) and, in 2013, I moved to Paris and started to attend the laboratory of biotherapy and clinical research center. My thesis about the interaction of *B lymphocytes* and *regulatory T cells (CD4+FOXP3+CD25+)* come out (for a selected public) after almost 2 years of work, in March 2014. In the same year, I started my residency programme. I spent one year of my residency in Paris, I moved to Rouen (Upper Normandy), then I went back againg to Paris. I defended the thesis (*Parkinson disease in the women of a French cohort*) of my master degree in *epidemiology* in September 2018 and my second thesis in medicine (long story short: thesis are defended during the residency programme in France - no matter if you already hold one!) in October 2019. 
