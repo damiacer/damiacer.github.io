@@ -25,8 +25,8 @@ As statician-medical doctor, I am involved in clinical trials and research proje
 
 and what about the outer space?
 ------
-Public Health is a multi-disciplinary speciality. The more you meet people, the more you learn. As resident, I enjoyed being part of the [European Network of Medical Residents in Public Health](https://www.euronetmrph.org) and [CLiSP](https://clisp.fr/). As a Public Health specialist with a deep interest in numbers, I loved being challenged by the conversation had during the [European Health Forum Gastein](https://www.ehfg.org/), attended thanks to *Young Forum Gastein scholarship*.  
-Now I'm really enjoying conversations around [R](https://cran.r-project.org/) as community team member of [R Forwards](https://forwards.github.io/).
+Public Health is a multi-disciplinary speciality: the more you meet people, the more you learn. As resident, I enjoyed being part of the [European Network of Medical Residents in Public Health](https://www.euronetmrph.org) and [CLiSP](https://clisp.fr/). As a Public Health specialist with a deep interest in numbers, I loved being challenged by the conversations had during the [European Health Forum Gastein](https://www.ehfg.org/), attended thanks to *Young Forum Gastein scholarship*.  
+Now I'm really enjoying conversations around the [R](https://cran.r-project.org/) universe as community team member of [R Forwards](https://forwards.github.io/).
 
 Contact
 ------
