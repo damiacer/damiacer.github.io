@@ -18,14 +18,15 @@ Education
 
 Work experience
 ======
-Attending Physician (Assistant hospitalier-universitaire)
+
+Attending Physician (Assistant hospitalier-universitaire)  
 -----
   * 2019 - present
   * Biostatistic and Clinical Research Unit
   * University Hospital of Caen Normandy - University of Caen
   * Caen, France
 
-Medical consultant
+Medical consultant  
 -----
   * 2019
   * Medlink
@@ -82,14 +83,32 @@ Resident physician in occupational medicine
   * Paris, France
     
   
-Skills
+Organizations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R Forwards  
+  * Community Team Member: July 2019 - present     
+  
+  * R Foundation task force to address the underrepresentation of women, LGBT+ people, minority ethnic groups, and people with disabilities in the R community.
+  * Website: [forwards.github.io](https://forwards.github.io)  
+  
+* Young Forum Gastein  
+  * Fellow Member: October 2018 - present  
+  
+  * The Young Forum Gastein initiative enables promising young health professionals to become a part of an inspiring network of health policy makers and stakeholders all around Europe.
+  * Website: [ehfg.org/young-forum-gastein](https://ehfg.org/young-forum-gastein)  
+  
+* EuroNet MRPH  
+  * Treasurer: March 2016 - December 2017
+  * National Commission member: March 2016 - April 2019  
+  
+  * EuroNet MRPH is the European Network of Medical Residents in Public Health.
+  * Website: [euronetmrph.org](http://www.euronetmrph.org)  
+
+* CLiSP
+  * Board member in charge of EuroNet MRPH liaison: April 2016 – Jun 2017  
+  
+  * Le CLiSP est le Collège de Liaison des Internes de Santé Publique. Depuis sa création, son premier objectif a toujours été de regrouper les internes de santé publique de toute la France pour créer du lien entre eux.
+  * Website: [clisp.fr](http://www.clisp.fr)
 
 Publications
 ======
