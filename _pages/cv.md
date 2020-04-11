@@ -146,16 +146,12 @@ Soon to be listed here. In the meantime, please visit my [Google Scholar](https:
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>  
+Hold on, "Talks" will be soon uploaded. 
    
    
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
+Hold on, "Teaching" will be soon uploaded. 
   
   
 LinkedIn
