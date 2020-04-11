@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+
 Attending Physician (Assistant hospitalier-universitaire)  
 -----
   * 2019 - present
