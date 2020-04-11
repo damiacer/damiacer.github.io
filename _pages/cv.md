@@ -15,7 +15,8 @@ Education
 * Master degree in Public Health and Epidemiology, Université Paris-Sud (Paris XI), 2017-2018
 * Doctor of Medicine – Resident physician in occupational medicine, Université Paris Descartes, 2014-2015
 * Doctor of Medicine, Sapienza Università di Roma, 2016-2014  
-  
+ 
+_______
   
 Work experience  
 ======
@@ -83,6 +84,7 @@ Resident physician in occupational medicine
 * Pitié-Salpêtrière Hospital, AP-HP
 * Paris, France  
   
+_____
   
 Organizations
 ======
@@ -107,7 +109,8 @@ Organizations
 * Board member in charge of EuroNet MRPH liaison: April 2016 – Jun 2017  
 * Le CLiSP est le Collège de Liaison des Internes de Santé Publique. Depuis sa création, son premier objectif a toujours été de regrouper les internes de santé publique de toute la France pour créer du lien entre eux.
 * Website: [clisp.fr](http://www.clisp.fr)  
-  
+
+_____
   
 Languages
 =====
@@ -115,6 +118,7 @@ Languages
 * French
 * English  
   
+_____
   
 Skills
 =====
@@ -125,7 +129,8 @@ Skills
 * Epidemiology
 * Life Sciences  
   
-  
+_____ 
+ 
 Statistics Softwares
 =====
 * R
@@ -138,7 +143,8 @@ Statistics Softwares
 * Winbugs
 * JASP  
   
-  
+_____ 
+ 
 Publications
 ======
 Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.  
@@ -153,6 +159,7 @@ Teaching
 ======
 Hold on, "Teaching" will be soon uploaded. 
   
+_____
   
 LinkedIn
 ======
