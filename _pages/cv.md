@@ -35,52 +35,52 @@ Medical consultant
 Resident physician in Public Health 
 -----
 
-* Biostatistics Unit
-  * November 2018- April 2019
-  * University Hospital of Rouen
-  * Rouen, France
+**Biostatistics Unit**
+* November 2018- April 2019
+* University Hospital of Rouen
+* Rouen, France
     
-* INSERM 1018, Neuroepidemiology Research Unit
-  * January 2018 - October 2018
-  * Paris-Sud University
-  * Paris, France
+**INSERM 1018, Neuroepidemiology Research Unit**
+* January 2018 - October 2018
+* Paris-Sud University
+* Paris, France
   
-* Clinical Epidemiology and Health Promotion Unit
-  * May 2017 - October 2017
-  * University Hosptial of Rouen
-  * Rouen, France
+**Clinical Epidemiology and Health Promotion Unit**
+* May 2017 - October 2017
+* University Hosptial of Rouen
+* Rouen, France
     
-* Regional Health Service Department (ARS)
-  * November 2016 - April 2017
-  * Rouen, France
+**Regional Health Service Department (ARS)**
+* November 2016 - April 2017
+* Rouen, France
     
-* Clinical Investigation Center
-  * May 2016 - October 2016
-  * University Hospital of Rouen
-  * Rouen, France
+**Clinical Investigation Center**
+* May 2016 - October 2016
+* University Hospital of Rouen
+* Rouen, France
     
-* Health Information System Department
-  * November 2015 - April 2016 
-  * Hospital of Dieppe
-  * Dieppe, France
+**Health Information System Department**
+* November 2015 - April 2016 
+* Hospital of Dieppe
+* Dieppe, France
     
 Resident physician in occupational medicine  
 -----
  
-* Public Health and Health Economics Department
-  * May 2015 - October 2015
-  * Lariboisière-Fernand Widal Hospital, AP-HP
-  * Paris, France 
+**Public Health and Health Economics Department**
+* May 2015 - October 2015
+* Lariboisière-Fernand Widal Hospital, AP-HP
+* Paris, France 
   
-* Anonymous Screening Center fo Sexually Transmitted Infections
-  * May 2015 - October 2015
-  * Fernand Widal Hospital, AP-HP
-  * Paris, France
+**Anonymous Screening Center fo Sexually Transmitted Infections**
+* May 2015 - October 2015
+* Fernand Widal Hospital, AP-HP
+* Paris, France
    
-* Rheumatology Department
-  * November 2014 - April 2015
-  * Pitié-Salpêtrière Hospital, AP-HP
-  * Paris, France
+**Rheumatology Department**
+* November 2014 - April 2015
+* Pitié-Salpêtrière Hospital, AP-HP
+* Paris, France
     
   
 Organizations
@@ -106,11 +106,39 @@ Organizations
 * Le CLiSP est le Collège de Liaison des Internes de Santé Publique. Depuis sa création, son premier objectif a toujours été de regrouper les internes de santé publique de toute la France pour créer du lien entre eux.
 * Website: [clisp.fr](http://www.clisp.fr)
 
+Languages
+=====
+* Italian
+* French
+* English
+
+Skills
+=====
+* Medicine
+* Publich Health
+* Statistic
+* Clinical Research
+* Epidemiology
+* Life Sciences
+
+Statistics Softwares
+=====
+* R
+* R Studio
+* SAS
+* STATA
+* SPSS
+* Epidata
+* Epinfo
+* Winbugs
+* JASP
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
@@ -123,7 +151,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
