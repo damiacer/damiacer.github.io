@@ -18,7 +18,6 @@ Education
 
 Work experience
 ======
-
 Attending Physician (Assistant hospitalier-universitaire)  
 -----
   * 2019 - present
@@ -137,7 +136,6 @@ Publications
 ======
 Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.  
 
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -149,4 +147,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
+  
+LinkedIn
+======
+For a full CV, please visit my [LinkedIn profile](https://www.linkedin.com/in/damianocerasuolo). 
