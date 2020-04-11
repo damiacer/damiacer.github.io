@@ -14,8 +14,9 @@ Education
 * Doctor of Medicine – Resident physician in Public Health, Université de Rouen, 2015-2014
 * Master degree in Public Health and Epidemiology, Université Paris-Sud (Paris XI), 2017-2018
 * Doctor of Medicine – Resident physician in occupational medicine, Université Paris Descartes, 2014-2015
-* Doctor of Medicine, Sapienza Università di Roma, 2016-2014
-
+* Doctor of Medicine, Sapienza Università di Roma, 2016-2014  
+  
+  
 Work experience
 ======
 
@@ -80,11 +81,12 @@ Resident physician in occupational medicine
 **Rheumatology Department**
 * November 2014 - April 2015
 * Pitié-Salpêtrière Hospital, AP-HP
-* Paris, France
-    
+* Paris, France  
+  
   
 Organizations
 ======
+
 **R Forwards**
 * Community Team Member: July 2019 - present
 * R Foundation task force to address the underrepresentation of women, LGBT+ people, minority ethnic groups, and people with disabilities in the R community.
@@ -104,14 +106,16 @@ Organizations
 **CLiSP**
 * Board member in charge of EuroNet MRPH liaison: April 2016 – Jun 2017  
 * Le CLiSP est le Collège de Liaison des Internes de Santé Publique. Depuis sa création, son premier objectif a toujours été de regrouper les internes de santé publique de toute la France pour créer du lien entre eux.
-* Website: [clisp.fr](http://www.clisp.fr)
-
+* Website: [clisp.fr](http://www.clisp.fr)  
+  
+  
 Languages
 =====
 * Italian
 * French
-* English
-
+* English  
+  
+  
 Skills
 =====
 * Medicine
@@ -119,8 +123,9 @@ Skills
 * Statistic
 * Clinical Research
 * Epidemiology
-* Life Sciences
-
+* Life Sciences  
+  
+  
 Statistics Softwares
 =====
 * R
@@ -131,23 +136,27 @@ Statistics Softwares
 * Epidata
 * Epinfo
 * Winbugs
-* JASP
-
+* JASP  
+  
+  
 Publications
 ======
 Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.  
-
+  
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>  
+   
+   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>  
+  
   
 LinkedIn
 ======
