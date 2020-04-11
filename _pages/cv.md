@@ -118,7 +118,6 @@ Languages
 * French
 * English  
   
-_____
   
 Skills
 =====
@@ -128,8 +127,7 @@ Skills
 * Clinical Research
 * Epidemiology
 * Life Sciences  
-  
-_____ 
+   
  
 Statistics Softwares
 =====
