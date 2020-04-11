@@ -135,7 +135,9 @@ Statistics Softwares
 
 Publications
 ======
-Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.
+Soon to be listed here. In the meantime, please visit my [Google Scholar](https://scholar.google.com/citations?user=ifdQ79EAAAAJ&hl=en) page for publication list.  
+
+
         #  <ul>{% for post in site.publications %}
         #    {% include archive-single-cv.html %}
         #  {% endfor %}</ul>
