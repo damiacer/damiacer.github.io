@@ -17,7 +17,7 @@ Education
 * Doctor of Medicine, Sapienza Università di Roma, 2016-2014  
   
   
-Work experience
+Work experience  
 ======
 
 Attending Physician (Assistant hospitalier-universitaire)  
