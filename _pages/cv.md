@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+ 
+_______
 
 Education
 ======
-* Doctor of Medicine – Resident physician in Public Health, Université de Rouen, 2015-2019
-* Master degree in Public Health and Epidemiology, Université Paris-Sud (Paris XI), 2017-2018
-* Doctor of Medicine – Resident physician in occupational medicine, Université Paris Descartes, 2014-2015
-* Doctor of Medicine, Sapienza Università di Roma, 2016-2014  
+* Doctor of Medicine – Resident physician in Public Health, University of Rouen, 2015-2019
+* Master degree in Public Health and Epidemiology, University "Paris-Sud (Paris XI)", 2017-2018
+* Doctor of Medicine – Resident physician in occupational medicine, University "Paris Descartes", 2014-2015
+* Doctor of Medicine – School of Medicine, University of Rome "Sapienza", 2016-2014  
  
 _______
   
