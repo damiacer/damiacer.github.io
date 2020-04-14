@@ -14,9 +14,9 @@ _______
 Education
 ======
 * Doctor of Medicine – Resident physician in Public Health, University of Rouen, 2015-2019
-* Master degree in Public Health and Epidemiology, "Paris-Sud (Paris XI)" University, 2017-2018
+* Ms – Master degree in Public Health and Epidemiology, "Paris-Sud (Paris XI)" University, 2017-2018
 * Doctor of Medicine – Resident physician in occupational medicine, University "Paris Descartes (Paris V)", 2014-2015
-* Doctor of Medicine - Visiting student at "UPMC (Paris VI)" University, 2013-2014 
+* Doctor of Medicine – Visiting student, "UPMC (Paris VI)" University, 2013-2014 
 * Doctor of Medicine – School of Medicine, "Sapienza" University of Rome , 2016-2014  
  
 _______
