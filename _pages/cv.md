@@ -14,9 +14,10 @@ _______
 Education
 ======
 * Doctor of Medicine – Resident physician in Public Health, University of Rouen, 2015-2019
-* Master degree in Public Health and Epidemiology, University "Paris-Sud (Paris XI)", 2017-2018
-* Doctor of Medicine – Resident physician in occupational medicine, University "Paris Descartes", 2014-2015
-* Doctor of Medicine – School of Medicine, University of Rome "Sapienza", 2016-2014  
+* Master degree in Public Health and Epidemiology, "Paris-Sud (Paris XI)" University, 2017-2018
+* Doctor of Medicine – Resident physician in occupational medicine, University "Paris Descartes (Paris V)", 2014-2015
+* Doctor of Medicine - Visiting student at "UPMC (Paris VI)" University, 2013-2014 
+* Doctor of Medicine – School of Medicine, "Sapienza" University of Rome , 2016-2014  
  
 _______
   
@@ -85,6 +86,19 @@ Resident physician in occupational medicine
 * November 2014 - April 2015
 * Pitié-Salpêtrière Hospital, AP-HP
 * Paris, France  
+   
+ Medicine student
+ -----
+   
+ **Visiting student at Clinical Investigation Center in Biotherapies**
+ * October 2013-June 2014
+ * Pitié-Salpêtrière Hospital, AP-HP
+ * Paris, France  
+   
+ **Student at Clinical Immunology Laboratory**
+ * September 2012-September 2013
+ * Umberto I General Hospital
+ * Rome, Italy
   
 _____
   
