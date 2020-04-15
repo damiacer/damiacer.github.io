@@ -88,8 +88,8 @@ Resident physician in occupational medicine
 * Paris, France  
    
    
- Medicine student
- -----
+ Medicine student  
+ ----- 
    
  **Visiting student at Clinical Investigation Center in Biotherapies**
  * October 2013-June 2014
