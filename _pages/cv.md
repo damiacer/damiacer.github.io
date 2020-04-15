@@ -139,7 +139,7 @@ Languages
 Skills
 =====
 * Medicine
-* Publich Health
+* Public Health
 * Statistics
 * Clinical Research
 * Epidemiology
