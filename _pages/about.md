@@ -32,4 +32,4 @@ Now I'm really enjoying conversations around the [R](https://cran.r-project.org/
 
 Contact
 ------
-Contact me by Twitter PM or by sending an email to damiano*dot*cerasuolo*at*hotmail*dot*com.
+Contact me by Twitter PM, by sending an email to damiano*dot*cerasuolo*at*hotmail*dot*com or by [telegramming me](https://telegram.me/damiacer).
