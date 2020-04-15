@@ -87,6 +87,7 @@ Resident physician in occupational medicine
 * Pitié-Salpêtrière Hospital, AP-HP
 * Paris, France  
    
+   
  Medicine student
  -----
    
