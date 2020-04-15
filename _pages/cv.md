@@ -87,18 +87,19 @@ Resident physician in occupational medicine
 * Pitié-Salpêtrière Hospital, AP-HP
 * Paris, France  
   
+   
 Medicine student   
----------- 
+----------
+     
+**Visiting student at Clinical Investigation Center in Biotherapies**
+* October 2013-June 2014
+* Pitié-Salpêtrière Hospital, AP-HP
+* Paris, France  
    
- **Visiting student at Clinical Investigation Center in Biotherapies**
- * October 2013-June 2014
- * Pitié-Salpêtrière Hospital, AP-HP
- * Paris, France  
-   
- **Student at Clinical Immunology Laboratory**
- * September 2012-September 2013
- * Umberto I General Hospital
- * Rome, Italy
+**Student at Clinical Immunology Laboratory**
+* September 2012-September 2013
+* Umberto I General Hospital
+* Rome, Italy
   
 _____
   
