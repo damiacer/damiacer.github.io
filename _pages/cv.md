@@ -86,10 +86,9 @@ Resident physician in occupational medicine
 * November 2014 - April 2015
 * Pitié-Salpêtrière Hospital, AP-HP
 * Paris, France  
-   
-   
- Medicine student   
- ---------- 
+  
+Medicine student   
+---------- 
    
  **Visiting student at Clinical Investigation Center in Biotherapies**
  * October 2013-June 2014
