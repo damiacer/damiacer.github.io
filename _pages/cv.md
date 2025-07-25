@@ -24,7 +24,7 @@ _______
 Work experience  
 ======
 
-Attending Physician (Assistant hospitalier-universitaire)  
+Attending Physician (Assistant hospitalier-universitaire and Praticien Hospitalier Universitaire)  
 -----
   * 2019 - present
   * Biostatistic and Clinical Research Unit
