@@ -107,7 +107,7 @@ Organizations
 ======
 
 **R Forwards**
-* Community Team Member: July 2019 - present
+* Community Team Member: July 2019 - 2022
 * R Foundation task force to address the underrepresentation of women, LGBT+ people, minority ethnic groups, and people with disabilities in the R community.
 * Website: [forwards.github.io](https://forwards.github.io)  
   
@@ -178,4 +178,4 @@ _____
   
 LinkedIn
 ======
-For a full CV, please visit my [LinkedIn profile](https://www.linkedin.com/in/damianocerasuolo). 
+Not often tehre, but please visit: [LinkedIn profile](https://www.linkedin.com/in/damianocerasuolo). 
